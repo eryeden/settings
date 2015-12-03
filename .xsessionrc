@@ -1,0 +1,2 @@
+xrdb -merge ~/.uxterm_settings &
+emacs.useXIM:false
