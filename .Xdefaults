@@ -1,0 +1,2 @@
+xrdb -merge ~/.uxterm_settings
+Emacs.useXIM:false
